@@ -7,3 +7,4 @@ This appplication:
       withdraw()
       transfer()
       showInfo()
+  - Generates an 11-digit account number (1 or 2 depending on account type, last two digits of SSN, unique 5-digit number and random 3-   digit number)
