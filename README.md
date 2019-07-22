@@ -9,7 +9,6 @@ This appplication:
       showInfo()
   - Generates an 11-digit account number (1 or 2 depending on account type, last two digits of SSN, unique 5-digit number and random 3-   digit number)
 <br/>
-
 Savings account holders get a safety deposit box identified by a 3-digit number and accessed by a 4-digit number
 <br/>
 Checking account holders recieve a debit card with  12-digit number and a 4-digit access code
