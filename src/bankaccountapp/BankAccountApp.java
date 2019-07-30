@@ -9,6 +9,7 @@ public class BankAccountApp {
     
     public static void main(String[] args) {
         
+<<<<<<< HEAD
         List<Account> accounts = new LinkedList<Account>();
         //put file path here
         String file = "C:\\Users\\bigde\\Documents\\NewBankAccounts.csv";
@@ -43,6 +44,8 @@ public class BankAccountApp {
         }
         
         /*
+=======
+>>>>>>> c725ad8ca9b3bd9bd0dd28a2de86f9a09a22760d
         Checking chk1 = new Checking("Tom Wilson", "234867498", 1789);
         
         Savings sav1 = new Savings("Abdallah Salia", "576830456", 6758);
@@ -50,6 +53,11 @@ public class BankAccountApp {
         sav1.showInfo();
         System.out.println("**************************");
         chk1.showInfo();
+<<<<<<< HEAD
+=======
+        
+        sav1.compound();
+>>>>>>> c725ad8ca9b3bd9bd0dd28a2de86f9a09a22760d
         
         sav1.compound();
         */
